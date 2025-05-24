@@ -1,28 +1,29 @@
 {
   "games": [
     {
-      "title": "ASTRONOMIAc",
-      "description": "Aprenda astronomia brincando!",
+      "title": "Parkour Space",
+      "description": "Jogue Varios leveis de parkour passando por varios lugares do mundo, chegando até mesmo no espaço profundo!",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link-do-jogo.com/astro.zip"
     },
     {
-      "title": "Seu Outro Jogo",
-      "description": "Descrição breve do jogo.",
+      "active": false,
+      "title": "ASTRONOMIA O JOGO",
+      "description": "primeiro Jogo da ZTR COMPANY, mas foi descontinuado por ter um problema incorregivel na Unity.",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
-      "download": "https://link.com/jogo2.zip"
+      "download": "Não Disponível."
     }
   ],
     "updates": [
     {
       "date": "23/05/2025",
-      "title": "Nova atualização do ZTR Company",
-      "description": "Adicionamos novas missões e corrigimos bugs relatados pelos usuários."
+      "title": "Parkour Space",
+      "description": "Parkour Space Foi Adicionado no Launcher, mas sem download Por enquanto, pois ainda está em desenvolvimento."
     },
     {
-      "date": "22/05/2025",
-      "title": "Lançamento de Outro Jogo",
-      "description": "Nosso novo jogo já está disponível para download!"
+      "date": "17/05/2025",
+      "title": "Parkour Spaece: Ultima Atualização",
+      "description": "O Primeiro level está quase pronto: 60%!"
     }
   ]
 }

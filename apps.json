@@ -1,12 +1,13 @@
 {
   "games": [
     {
-      "title": "ZTR Company",
-      "description": "Aprenda astronomia brincando!",
+      "title": "ZTR COMPANY LAUNCHER",
+      "description": "ZTR COMPANY LAUNCHER é um launcher de jogos desenvolvido pela ZTR Company. O launcher é uma plataforma que permite aos usuários baixar e jogar jogos desenvolvidos pela ZTR Company.",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
-      "download": "https://link-do-jogo.com/astro.zip"
+      "download": "arquivos/ZTR-Launcher-Setup.exe"
     },
     {
+      "active": false,
       "title": "Outro Jogo",
       "description": "Descrição breve do jogo.",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
@@ -16,13 +17,13 @@
   "updates": [
     {
       "date": "23/05/2025",
-      "title": "Nova atualização do ZTR Company",
+      "title": "ZTR COMPANY LAUNCHER Disponível para download agora!",
       "description": "Adicionamos novas missões e corrigimos bugs relatados pelos usuários."
     },
     {
-      "date": "22/05/2025",
-      "title": "Lançamento de Outro Jogo",
-      "description": "Nosso novo jogo já está disponível para download!"
+      "date": "21/05/2025",
+      "title": "Renovação do ZTR COMPANY LAUNCHER",
+      "description": "No dia 21/05/2025 começou a Renovação do aplicativo ZTR COMPANY LAUNCHER para disponibilizar.!"
     }
   ]
 }
