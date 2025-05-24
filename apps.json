@@ -5,13 +5,6 @@
       "description": "ZTR COMPANY LAUNCHER é um launcher de jogos desenvolvido pela ZTR Company. O launcher é uma plataforma que permite aos usuários baixar e jogar jogos desenvolvidos pela ZTR Company.",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://github.com/ZTRCOMPANY1/servidor-jogos/raw/refs/heads/main/arquivos/ZTR-Launcher-Setup.exe"
-    },
-    {
-      "active": false,
-      "title": "Outro Jogo",
-      "description": "Descrição breve do jogo.",
-      "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
-      "download": "https://link.com/jogo2.zip"
     }
   ],
   "updates": [
