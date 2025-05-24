@@ -1,16 +1,28 @@
 {
   "games": [
     {
-      "title": "ztr company",
+      "title": "ZTR Company",
       "description": "Aprenda astronomia brincando!",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link-do-jogo.com/astro.zip"
     },
     {
-      "title": "Seu Outro sSJogo",
+      "title": "Outro Jogo",
       "description": "Descrição breve do jogo.",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link.com/jogo2.zip"
+    }
+  ],
+  "updates": [
+    {
+      "date": "23/05/2025",
+      "title": "Nova atualização do ZTR Company",
+      "description": "Adicionamos novas missões e corrigimos bugs relatados pelos usuários."
+    },
+    {
+      "date": "22/05/2025",
+      "title": "Lançamento de Outro Jogo",
+      "description": "Nosso novo jogo já está disponível para download!"
     }
   ]
 }
