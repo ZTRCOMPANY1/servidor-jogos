@@ -4,12 +4,13 @@
       "title": "Parkour Space",
       "description": "Jogue Varios leveis de parkour passando por varios lugares do mundo, chegando até mesmo no espaço profundo!",
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/arquivos/pslogo.png",
-      "download": "https://link-do-jogo.com/astro.zip"
+      "download": "https://ztrcompany1.github.io/pagina-download-em-breve/"
     },
     {
       "title": "ASTRONOMIA O JOGO",
       "description": "primeiro Jogo da ZTR COMPANY, mas foi descontinuado por ter um problema incorregivel na Unity.",
-      "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/arquivos/astro2.png"
+      "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/arquivos/astro2.png",
+      "download": "https://ztrcompany1.github.io/pagina-download-nao-disponivel/"
     }
   ],
     "updates": [
