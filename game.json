@@ -3,13 +3,13 @@
     {
       "title": "ASTRONOMIA",
       "description": "Aprenda astronomia brincando!",
-      "image": "https://link-imagem-jogo.com/astro.png",
+      "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link-do-jogo.com/astro.zip"
     },
     {
       "title": "Seu Outro Jogo",
       "description": "Descrição breve do jogo.",
-      "image": "https://i.imgur.com/YiM06tU.jpeg",
+      "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link.com/jogo2.zip"
     }
   ]
