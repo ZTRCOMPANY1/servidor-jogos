@@ -12,5 +12,17 @@
       "image": "https://raw.githubusercontent.com/ZTRCOMPANY1/servidor-jogos/refs/heads/main/ZTRcompany.jpg",
       "download": "https://link.com/jogo2.zip"
     }
+  ],
+    "updates": [
+    {
+      "date": "23/05/2025",
+      "title": "Nova atualização do ZTR Company",
+      "description": "Adicionamos novas missões e corrigimos bugs relatados pelos usuários."
+    },
+    {
+      "date": "22/05/2025",
+      "title": "Lançamento de Outro Jogo",
+      "description": "Nosso novo jogo já está disponível para download!"
+    }
   ]
 }
