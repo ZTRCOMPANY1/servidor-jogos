@@ -7,9 +7,9 @@
       "download": "https://link-do-jogo.com/astro.zip"
     },
     {
-      "title": "Seu Outro sSJogo",
+      "title": "Seu Outro Jogo",
       "description": "Descrição breve do jogo.",
-      "image": "ZTRcompany.jpg",
+      "image": "https://github.com/ZTRCOMPANY1/servidor-jogos/blob/main/ZTRcompany.jpg",
       "download": "https://link.com/jogo2.zip"
     }
   ]
